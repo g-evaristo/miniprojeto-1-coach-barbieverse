@@ -1,6 +1,6 @@
 # coach_barbieverse
 
-A new Flutter project.
+Projeto em Flutter para a aula desenvolvimento de aplicativos móveis - Coach BarbieVerse
 
 ## Getting Started
 
